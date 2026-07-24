@@ -25,7 +25,7 @@ status: Shipping ideas into reality
 
 I build at the intersection of **AI agents, developer experience, and infrastructure** — with a focus on tools that do more than answer: they act, remember, and evolve.
 
-- 🚀 正在参与构建 **[ViceMe](https://github.com/Leizhenpeng/Viceme)**，探索下一代个人 AI Agent
+- 🚀 正在参与构建 **[ViceMe](https://viceme.ai)**，探索下一代个人 AI Agent
 - 🛠️ 主要使用 **Go** 与 **TypeScript** 构建 CLI、服务端系统和 Web 产品
 - 🧠 关注 Agent Harness、Skills、Memory、Tool Use 与可观测性
 - 🌱 持续参与开源，从真实问题出发提交代码
@@ -45,7 +45,7 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 </td>
 <td width="50%" valign="top">
 
-### [ViceMe](https://github.com/Leizhenpeng/Viceme)
+### [ViceMe](https://viceme.ai)
 
 个人 AI Agent 产品与基础设施集合，覆盖 Next.js、NestJS、Go、Temporal、gRPC、Langfuse 与完整可观测性体系。
 
