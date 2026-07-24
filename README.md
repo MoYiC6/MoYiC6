@@ -15,20 +15,19 @@
 ```yaml
 name: 辰ing
 location: Wuhan, China
-focus: [AI Agents, Developer Tools, Agent Infrastructure]
-currently_building: ViceMe
-favorite_languages: [Go, TypeScript]
-status: Shipping ideas into reality
+interests: [AI, Open Source, New Tools, Cats]
+currently: Staying curious and making things
+motto: Build, learn, and enjoy the process
 ```
 
-我是一名专注于 **AI Agent 与开发者工具** 的构建者，喜欢把复杂的智能体能力变成可靠、可组合、真正能被使用的产品。
+生活在武汉，对新技术、开源社区和各种有意思的工具保持好奇。喜欢安静地折腾电脑、调整自己的工作流，也喜欢把偶然冒出的灵感做成小实验。
 
-I build at the intersection of **AI agents, developer experience, and infrastructure** — with a focus on tools that do more than answer: they act, remember, and evolve.
+Based in Wuhan. Curious about new technology, open source, and the small tools that make everyday life a little more delightful.
 
-- 🚀 正在参与构建 **[ViceMe](https://viceme.ai)**，探索下一代个人 AI Agent
-- 🛠️ 主要使用 **Go** 与 **TypeScript** 构建 CLI、服务端系统和 Web 产品
-- 🧠 关注 Agent Harness、Skills、Memory、Tool Use 与可观测性
-- 🌱 持续参与开源，从真实问题出发提交代码
+- 🐈 喜欢猫和有趣的互联网文化
+- 🧩 享受探索新工具、优化工作流和解决小问题
+- 💡 经常把突然出现的想法做成小实验
+- 🌆 在武汉生活，对世界保持好奇
 
 <div align="center">
   <img width="720" src="assets/developer-cat.jpg" alt="A developer cat surrounded by favorite tools and technologies" />
