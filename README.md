@@ -79,6 +79,13 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 </tr>
 </table>
 
+## Talk with Me
+
+- AI Agents, Agent Skills, and coding-agent workflows
+- Go and TypeScript developer tooling
+- CLI design and agent infrastructure
+- Cool product ideas worth shipping
+
 ## Tools I Use
 
 <div align="center">
@@ -91,10 +98,18 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 
 <div align="center">
 
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoYiC6&theme=github_dark" alt="GitHub profile details" />
+
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoYiC6&theme=github_dark" alt="GitHub statistics" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoYiC6&theme=github_dark" alt="Repositories per language" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoYiC6&bg_color=0d1117&color=94a3b8&line=0ea5e9&point=22d3ee&area=true&hide_border=true" alt="Contribution activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoYiC6/MoYiC6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoYiC6/MoYiC6/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/MoYiC6/MoYiC6/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
