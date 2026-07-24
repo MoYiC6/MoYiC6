@@ -20,14 +20,7 @@ currently: Staying curious and making things
 motto: Build, learn, and enjoy the process
 ```
 
-生活在武汉，对新技术、开源社区和各种有意思的工具保持好奇。喜欢安静地折腾电脑、调整自己的工作流，也喜欢把偶然冒出的灵感做成小实验。
 
-Based in Wuhan. Curious about new technology, open source, and the small tools that make everyday life a little more delightful.
-
-- 🐈 喜欢猫和有趣的互联网文化
-- 🧩 享受探索新工具、优化工作流和解决小问题
-- 💡 经常把突然出现的想法做成小实验
-- 🌆 在武汉生活，对世界保持好奇
 
 <div align="center">
   <img width="720" src="assets/developer-cat.jpg" alt="A developer cat surrounded by favorite tools and technologies" />
