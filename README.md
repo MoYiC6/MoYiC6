@@ -32,8 +32,6 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 
 <div align="center">
   <img width="720" src="assets/developer-cat.jpg" alt="A developer cat surrounded by favorite tools and technologies" />
-  <br />
-  <sub>My development environment, more or less.</sub>
 </div>
 
 ## Selected Work
