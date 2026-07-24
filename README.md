@@ -10,7 +10,7 @@
 
 </div>
 
-## `> whoami`
+## `$ whoami`
 
 ```yaml
 name: 辰ing
@@ -30,7 +30,7 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 - 🧠 关注 Agent Harness、Skills、Memory、Tool Use 与可观测性
 - 🌱 持续参与开源，从真实问题出发提交代码
 
-## `> featured_work`
+## Selected Work
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 </tr>
 </table>
 
-## `> tech_stack`
+## Tools I Use
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 
 </div>
 
-## `> github_activity`
+## GitHub Activity
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I build at the intersection of **AI agents, developer experience, and infrastruc
 
 </div>
 
-## `> connect`
+## Let's Connect
 
 <div align="center">
 
