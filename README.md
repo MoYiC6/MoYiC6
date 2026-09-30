@@ -26,40 +26,6 @@ motto: Build, learn, and enjoy the process
   <img width="720" src="assets/developer-cat.jpg" alt="A developer cat surrounded by favorite tools and technologies" />
 </div>
 
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [ViceMe CLI](https://github.com/ViceMe-AI/cli)
-
-面向 Codex、Claude Code 等 AI Coding Tools 的官方 CLI 与 Agent Skill。提供确定性的认证、上传、发布和状态协议，让外部 Skill 成为稳定、可分享的 ViceMe Agent。
-
-`Go` `Agent Skills` `CLI` `Developer Tools`
-
-</td>
-<td width="50%" valign="top">
-
-### [ViceMe](https://viceme.ai)
-
-个人 AI Agent 产品与基础设施集合，覆盖 Next.js、NestJS、Go、Temporal、gRPC、Langfuse 与完整可观测性体系。
-
-`TypeScript` `Go` `Temporal` `AI Agents`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Cgame](https://github.com/MoYiC6/Cgame)
-
-使用 Go、Vue 与 TypeScript 构建的全栈项目，也是我持续投入最多的个人公开仓库之一。
-
-`Go` `Vue` `TypeScript` `Full Stack`
-
-</td>
-<td width="50%" valign="top">
 
 ### Open Source Contributions
 
